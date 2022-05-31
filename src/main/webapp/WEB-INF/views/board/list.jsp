@@ -18,7 +18,7 @@
   #board  td:nth-of-type(4), 
   #board  th:nth-of-type(4) { width:120px; text-align:center; }
   #board  td:nth-of-type(5), 
-  #board  th:nth-of-type(5) { width:100px; text-align:center; }
+  #board  th:nth-of-type(5) { width:120px; text-align:left; }
 </style>
 </head>
 <body>
